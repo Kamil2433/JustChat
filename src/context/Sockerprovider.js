@@ -12,7 +12,7 @@ export function SocketProvider({ id, children }) {
 
   useEffect(() => {
     const newSocket = io(
-      'https://justchat2.onrender.com/',
+      "https://justchat2.onrender.com/",
       { query: { id } },
      
       {cors:'*'}
