@@ -29,6 +29,10 @@
   "license": "MIT",
   "main": "./lib/nodemon",
   "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
     "commitmsg": "commitlint -e",
     "coverage": "istanbul cover _mocha -- --timeout 30000 --ui bdd --reporter list test/**/*.test.js",
     "lint": "eslint lib/**/*.js",
