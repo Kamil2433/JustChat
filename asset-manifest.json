@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JustChat/static/css/main.da3089f3.css",
+    "main.js": "/JustChat/static/js/main.431c63b9.js",
+    "index.html": "/JustChat/index.html",
+    "main.da3089f3.css.map": "/JustChat/static/css/main.da3089f3.css.map",
+    "main.431c63b9.js.map": "/JustChat/static/js/main.431c63b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.431c63b9.js"
+  ]
+}
