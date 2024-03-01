@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Noteschat/static/css/main.da3089f3.css",
-    "main.js": "/Noteschat/static/js/main.554b7b63.js",
+    "main.js": "/Noteschat/static/js/main.4c72b582.js",
     "index.html": "/Noteschat/index.html",
     "main.da3089f3.css.map": "/Noteschat/static/css/main.da3089f3.css.map",
-    "main.554b7b63.js.map": "/Noteschat/static/js/main.554b7b63.js.map"
+    "main.4c72b582.js.map": "/Noteschat/static/js/main.4c72b582.js.map"
   },
   "entrypoints": [
     "static/css/main.da3089f3.css",
-    "static/js/main.554b7b63.js"
+    "static/js/main.4c72b582.js"
   ]
 }
